@@ -1,0 +1,23 @@
+{
+  "name": "chen2cai2-cinema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiochan/cai2chen2-cinema.git",
+  "author": "kiochan <sunxingchen@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.22",
+    "@types/react": "^16.9.42",
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
